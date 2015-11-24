@@ -1,0 +1,1 @@
+<tr> <td width="90" height="20" > <img src="img/down.png" align="center" valign="top" width="1100" height="60" alt="картинка"/></td></tr>

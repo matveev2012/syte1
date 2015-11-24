@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+.main_border 
+{
+.main_border {border:1px solid #000000;
+	border-width: thick;
+}
+}
+p {font-family:Verdana; font-size:14px; margin:10px;}
+.left {background-color:#f6f6f6; 
+	   border-right:1px solid #000000; 
+	   border-width:1px solid:#000000;
+	  }
+body {
+	background-attachment: fixed;
+	/* [disabled]border-top-width: thin; */
+	border-bottom-width: thin;
+	border-right-width: thin;
+	border-left-width: thin;
+	background-color: #000000;
+	background-image: url(img/phone.jpg);
+	}
+p.title {
+background-color: #A72E37;
+color: #FFFFFF;
+font-weight:bold;
+margin:5px;
+padding:5px;
+}
+
+
+.lesson{border:1px solid #000000;border-color:#CCCCCC; width:95%;}
+.articles_title{background-color:#FFFE6C;}
+.lesson_title{background-color:#B4F62F;}
+.lesson_name{ font-weight:bold; margin-top:7px;margin-bottom:7px;}
+.lesson_adds{font-size:11px;margin-top:7px; margin-bottom:7px;color:#000000;}
+.view_title{font-size:20px; font-weight:bold; color: #000000; text-align: center;}
+.view_date{ font-size:11px; color:#424242; margin-top:7px; margin-bottom:7px; font-weight:bold;} 
+
+
+.gallery img{
+margin:5px;
+border:3px solid #3AAACF}
+a.photo:hover img{
+border:3px solid #034F80;
+}
+
